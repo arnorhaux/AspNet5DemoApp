@@ -15,7 +15,7 @@ npm start
 
 ### Manual
 
-Using custom buildpack [dotnetcore-buildpack](https://github.com/jincod/dotnetcore-buildpack)
+Using custom buildpack [dotnetcore-buildpack](https://github.com/arnorhaux/dotnetcore-buildpack)
 
 ```bash
 heroku buildpacks:set https://github.com/jincod/dotnetcore-buildpack
